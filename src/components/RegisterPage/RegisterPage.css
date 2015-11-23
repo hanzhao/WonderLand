@@ -1,0 +1,114 @@
+/* React Starter Kit | MIT License | http://www.reactstarterkit.com/ */
+
+@import '../variables.css';
+
+body {
+  background: url(/images/bg_1.png);
+  background-size: cover;
+}
+
+.RegisterPage-container {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 0 40px;
+  max-width: var(--max-content-width);
+}
+
+.RegisterPage-header {
+  width: 75%;
+  margin-top: 3.8rem;
+  margin-bottom: 0.8rem;
+}
+
+.RegisterPage-title {
+  color: white;
+  line-height: 2;
+  font-size: 100%;
+}
+
+.Register-textfield {
+  margin-top: 2.5rem;
+}
+
+.Register-textfield > div > input {
+  width: 60%;
+  height: 2.35rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+  line-height: 2;
+  padding: 0rem 1.2rem;
+  color: rgba(0, 0, 0, 1);
+  border-radius: 0px;
+  font-size: 85%;
+}
+
+.Register-textfield > div > input::-webkit-input-placeholder {
+  color: rgba(16, 18, 63, 1);
+}
+
+.RegisterPage-button {
+  width: 70%;
+  padding: 1rem;
+  height: 2.5rem;
+  margin-top: 0.95rem;
+  border-radius: 0px;
+  border-width: 0px;
+  color: white;
+  background-color: rgba(124, 172, 238, 0.8);
+  font-size: 120%;
+  line-height: 0.8;
+}
+
+.Register-hinter {
+  margin-top: 2.6rem;
+  color: white;
+}
+
+.Register-divider_l {
+  width: 22%;
+  height: 1px;
+  background-color: white;
+  margin-top: 3.2rem;
+  margin-left: 8%;
+}
+
+.Register-divider_r {
+  width: 22%;
+  height: 1px;
+  background-color: white;
+  margin-right: 8%;
+  float: right;
+}
+
+.Register-title2 {
+  color: white;
+  font-size: 100%;
+  margin-top: -11px;
+  float: left;
+  margin-left: 38%;
+}
+
+.Register-hinter > a {
+  color: white;
+  text-decoration: none;
+}
+
+.Register-clean {
+  clear: both;
+}
+
+.Register-icon-container {
+  margin-top: 1.2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.Register-icon {
+  width: 25%;
+}
+
+.Register-icon > img {
+  height: 3rem;
+  width: 3rem;
+}

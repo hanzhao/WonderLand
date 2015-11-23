@@ -1,0 +1,61 @@
+body {
+  background-image: url('/images/bg_1.png');
+  background-size: cover;
+}
+.RouterPage-vertical-container {
+  text-align: center;
+  width: 100%;
+  font-size: 110%;
+}
+.RouterPage-text {
+  color: #fff;
+  font-size: 120%;
+}
+.RouterPage-logo > img {
+  height: 7em;
+  width: 7em;
+  padding: 3em;
+}
+.RouterPage-line {
+  height: 0.1em;
+  width: 13em;
+  background-color: #fff;
+  display: inline-block;
+}
+.RouterPage-opacity-button {
+  height: 3.7em;
+  width: 14em;
+  opacity: 0.7;
+  background-color: #fff;
+  border-radius: 0.5em;
+  display: inline-block;
+  margin-top: 1.7em;
+}
+.RouterPage-flex {
+  position: relative;
+  padding: 1em 3em 0.3em 3.5em;
+  text-align: center;
+}
+.RouterPage-icon {
+  width: 1.7em;
+  margin: 0.8em 0.7em 0.7em 1.7em;
+  float: left;
+}
+.RouterPage-div-inbtn {
+  margin: auto;
+}
+.RouterPage-chn-text {
+  font-family: sans-serif;
+  color: #6A1B9A;
+  text-align: center;
+  margin: auto;
+  padding-top: 0.5em;
+}
+.RouterPage-eng-text {
+  font-size: 70%;
+  font-family: sans-serif;
+  color: #6A1B9A;
+  text-align: center;
+  margin: auto;
+  padding-top: 0.5em;
+}

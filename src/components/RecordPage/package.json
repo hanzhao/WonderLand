@@ -1,0 +1,6 @@
+{
+  "name": "RecordPage",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RecordPage.js"
+}

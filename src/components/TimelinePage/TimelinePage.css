@@ -1,0 +1,113 @@
+body {
+  background-color: #10143e;
+}
+.TimelinePage {
+  margin-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 2em;
+}
+.TimelinePage .input-board {
+  width: 60%;
+  margin: 0.5em 0.5em 0.5em 0.5em;
+  padding-left: 1em;
+  border-radius: 0.5em;
+  line-height: 2;
+}
+.TimelinePage .input-btn {
+  margin-left: 0.3em;
+  background: 0 0;
+  border: 0;
+  box-shadow: none;
+}
+.TimelinePage .input-img {
+  background-image: url("/images/fdj.png");
+  width: 1.5em;
+  height: 1.5em;
+  background-size: cover;
+  display: inline-block;
+  vertical-align: middle;
+}
+.TimelinePage .dh-btn {
+  width: 1.5em;
+  height: 1.5em;
+  margin-top: 1.05em;
+  margin-right: 0.5em;
+  float: right;
+  background-size: cover;
+  display: inline-block;
+  vertical-align: middle;
+}
+.TimelinePage .photo {
+  border-radius: 0.3em;
+  height: 3em;
+  width: 3em;
+}
+.TimelinePage .sqr-container {
+  margin: 0em;
+}
+.TimelinePage .text-omit {
+  height: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  font-size: 100%;
+}
+.TimelinePage .text-bd {
+  width: 70%;
+  float: right;
+  margin-right: 2em;
+  font-size: 90%;
+}
+.TimelinePage .from-ca {
+  color: white;
+  opacity: 0.7;
+  font-size: 1em;
+  padding-bottom: 0.2em;
+}
+.TimelinePage .dairy-box {
+  color: white;
+  padding: 1em;
+  padding-bottom: 1em;
+}
+.TimelinePage .dream-bd {
+  border-bottom: thin solid #EEEEEE;
+  padding-bottom: 1em;
+}
+.TimelinePage .zan-img {
+  height: 2em;
+  width: 2em;
+  margin-right: 0.8em;
+  float: right;
+}
+.TimelinePage .follow {
+  float: left;
+  width: 4.5em;
+  height: 2em;
+  background-color: white;
+  line-height: 2;
+  color: #10143e;
+  margin-left: 0.7em;
+  text-align: center;
+  border-radius: 0.2em;
+  margin-top: 0.4em;
+  font-size: 80%;
+  opacity: 0.7;
+}
+.TimelinePage .btm-list {
+  width: 100%;
+  height: 2em;
+  overflow-y: hidden;
+}
+.TimelinePage .zan-num {
+  border-radius: 0.5em;
+  float: right;
+  width: 4em;
+  height: 2em;
+  color: white;
+  text-align: center;
+  margin-top: 0.5em;
+  opacity: 0.7;
+}
