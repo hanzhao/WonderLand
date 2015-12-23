@@ -1,14 +1,6 @@
 WonderLand
 ===
 
-# Preview
-![default](https://cloud.githubusercontent.com/assets/6753092/11337554/db6dee12-9228-11e5-9399-562eb82a9ddc.png)
-![default](https://cloud.githubusercontent.com/assets/6753092/11337562/e5d59670-9228-11e5-8971-0b4517a69d7f.png)
-![default](https://cloud.githubusercontent.com/assets/6753092/11337560/e20c8c1a-9228-11e5-9860-786958cb367b.png)
-![default](https://cloud.githubusercontent.com/assets/6753092/11337565/e815525e-9228-11e5-9eb6-bf84c177850c.png)
-![2](https://cloud.githubusercontent.com/assets/6753092/11337567/e8f6543e-9228-11e5-958d-c644b24676f2.png)
-![default](https://cloud.githubusercontent.com/assets/6753092/11337570/ea23139c-9228-11e5-9327-428a02087944.png)
-
 # Description
 
 This is a webapp we created in Hangzhou Hackathon hosted by Hecaila in Winter, 2015.
@@ -22,3 +14,11 @@ This webapp uses React Starter Kit as framework, which is a *isomorphic* web app
 Designed by Shu Kai.
 
 Implemented by Lin Hanzhao, Liang Lu, Ni Xinyi.
+
+# Preview
+![default](https://cloud.githubusercontent.com/assets/6753092/11337554/db6dee12-9228-11e5-9399-562eb82a9ddc.png)
+![default](https://cloud.githubusercontent.com/assets/6753092/11337562/e5d59670-9228-11e5-8971-0b4517a69d7f.png)
+![default](https://cloud.githubusercontent.com/assets/6753092/11337560/e20c8c1a-9228-11e5-9860-786958cb367b.png)
+![default](https://cloud.githubusercontent.com/assets/6753092/11337565/e815525e-9228-11e5-9eb6-bf84c177850c.png)
+![2](https://cloud.githubusercontent.com/assets/6753092/11337567/e8f6543e-9228-11e5-958d-c644b24676f2.png)
+![default](https://cloud.githubusercontent.com/assets/6753092/11337570/ea23139c-9228-11e5-9327-428a02087944.png)
